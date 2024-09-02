@@ -4,4 +4,4 @@ resources:
 - ../../base
 - nst.yml
 namePrefix: test-
-namespace: argocd
+
